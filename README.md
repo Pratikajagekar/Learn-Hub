@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # LearnHub – MERN Learning Management System (Udemy-style)
 
 Full-stack LMS: **React + Vite + Tailwind** · **Node + Express (MVC)** · **MongoDB + Mongoose** · **JWT in HTTP-only cookies** · RBAC (Student / Instructor / Admin).
@@ -99,3 +100,7 @@ lms-platform/
 - Set a strong `JWT_SECRET`, `NODE_ENV=production`, a real `MONGO_URI`, and `CLIENT_URL`.
 - Build the frontend with `npm run build --prefix client` and serve `client/dist` from a static host / reverse proxy that forwards `/api` and `/uploads` to the server.
 - For paid video protection, use Cloudinary/S3 signed URLs.
+=======
+# Learn-Hub
+LearnHub is an online learning platform where students can enroll in courses, watch YouTube lessons, complete quizzes, earn certificates, and practice coding using an integrated compiler. It features a typing-only code editor and tab-switch monitoring to discourage cheating during coding assessments.
+>>>>>>> 59291e950d9e89bcd84c0ea1a65d0c84b77e4b28
